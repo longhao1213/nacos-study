@@ -1,0 +1,5 @@
+/spring-cloud/cloud-config/target/
+/config/target/
+/discovery/target/
+/.idea/
+/discovery/discovery.iml
