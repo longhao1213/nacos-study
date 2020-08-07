@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- * Copyright (C), 2006-2010, ChengDu ybya info. Co., Ltd.
+ * Copyright (C), 2006-2010, ChengDu longsan info. Co., Ltd.
  * FileName: DiscoveryController.java
  *
  * @author lh

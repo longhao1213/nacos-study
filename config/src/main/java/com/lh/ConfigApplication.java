@@ -6,7 +6,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Copyright (C), 2006-2010, ChengDu ybya info. Co., Ltd.
+ * Copyright (C), 2006-2010, ChengDu longsan info. Co., Ltd.
  * FileName: Application.java
  *
  * @author lh

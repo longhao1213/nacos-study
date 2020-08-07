@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Copyright (C), 2006-2010, ChengDu ybya info. Co., Ltd.
+ * Copyright (C), 2006-2010, ChengDu longsan info. Co., Ltd.
  * FileName: ConfigController.java
  *
  * @author lh
